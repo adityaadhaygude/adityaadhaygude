@@ -1,6 +1,6 @@
 ### Hi there, I'm Aditya👋
 
-## I'm a Developer, and Student!
+## I'm a Developer and Student!
 
 - 🔭 I’m currently working on a social media platform webapp!
 - 🌱 I’m currently learning everything 🤣
