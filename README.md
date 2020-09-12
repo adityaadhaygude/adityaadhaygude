@@ -1,5 +1,3 @@
-# adityadhaygude
-Profile repository
 ### Hi there, I'm Aditya👋
 
 ## I'm a Developer, and Student!
