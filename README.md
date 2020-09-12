@@ -1,4 +1,7 @@
 ### Hi there, I'm Aditya👋
+- 🔭 I’m web developement learner(Full stack)
+- 🌱 I’m enthusiastic about Data science and Machine learning
+- ⚡ I’m python programmer
 
 ## I'm a Developer and Student!
 
