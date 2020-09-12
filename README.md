@@ -2,6 +2,7 @@
 - 🔭 I’m web developement learner(Full stack)
 - 🌱 I’m enthusiastic about Data science and Machine learning
 - ⚡ I’m python programmer
+- 👯 I'm currently working on back-end development using laravel(php framework), nodejs and python-flask
 
 ## I'm a Developer and Student!
 
