@@ -1,5 +1,5 @@
 ### Hi there, I'm Aditya👋
-- 🔭 I’m web developement learner(Full stack)
+- 🔭 I’m full stack web developement learner
 - 🌱 I’m enthusiastic about Data science and Machine learning
 - ⚡ I’m python programmer
 - 👯 I'm currently working on back-end development using laravel(php framework), nodejs and python-flask
