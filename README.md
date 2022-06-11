@@ -4,12 +4,12 @@
 - ⚡ I’m python programmer
 - 👯 I'm currently working on back-end development using laravel(php framework), nodejs and python-flask
 
-## I'm a Developer and Student!
+## I'm a Software Engineer!
 
-- 🔭 I’m currently working on a social media platform webapp!
+- 🔭 I’m currently working on a cyber security based project!
 - 🌱 I’m currently learning everything 
 - 👯 I’m looking to collaborate with other content creators
-- 🥅 2020 Goals: Learn about Open Source projects
+- 🥅 2022 Goals: Learn about cyber security
 - ⚡ Fun fact: I love to draw and play games
 
 ### Languages and Tools:
