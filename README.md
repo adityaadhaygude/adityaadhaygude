@@ -9,10 +9,10 @@
 ### Roles and Responsibilities:
 - Write automation framework from scratch - for front end as well as backend
 - Responsible for functional testing like sanity, regression, unit, integration, system testing as well as non-functional testing
-- Create test plan, stratergy. Write and execute test scenarios & test cases
+- Create test plan, strategy. Write and execute test scenarios & test cases
 - Works in agile methodology, follows scrum
 - Understands SDLC, STLC, Bug life cycle
-- Resposible for root cause analysis, defect tracking & reporting
+- Responsible for root cause analysis, defect tracking & reporting
 
 ### Tech Stack:
 Selenium | Python | Java | Pytest | Junit | TestNG | Postman | Cucumber | Swagger API | Linux | Virtual machines | Docker | GCP | Jenkins | CICD | Agile | Jira | Computer Networks | API Testing | Manual Testing | STLC | MS Office | Cyber Security | BDD framework | Github actions
