@@ -11,6 +11,17 @@
 - 🥅 2024 Goals: Learn about cypress and mobile automation
 - ⚡ Fun fact: I love to draw and play games
 
+### Roles and Responsibilities:
+- Write automation framework from scratch - for front end as well as backend
+- Responsible for sanity, regression, unit, integration, system testing
+- Create test plan, stratergy. Write and execute test scenarios & test cases
+- Works in agile methodology, follows scrum
+- Understands SDLC, STLC, Bug life cycle
+- Resposible for root cause analysis & defect tracking
+
+### Tech Stack:
+Selenium | Python | Pytest | Junit | TestNG | Postman | Cucumber | Swagger API | Linux | Virtual machines | Docker | GCP | Genkins | CICD | Agile | Jira | Computer Networks | API Testing | Manual Testing | STLC
+
 ### Languages and Tools:
 
 <img align="left" alt="Python" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png" />
