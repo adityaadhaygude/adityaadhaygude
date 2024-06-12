@@ -17,7 +17,7 @@
 - Create test plan, stratergy. Write and execute test scenarios & test cases
 - Works in agile methodology, follows scrum
 - Understands SDLC, STLC, Bug life cycle
-- Resposible for root cause analysis & defect tracking
+- Resposible for root cause analysis, defect tracking & reporting
 
 ### Tech Stack:
 Selenium | Python | Java | Pytest | Junit | TestNG | Postman | Cucumber | Swagger API | Linux | Virtual machines | Docker | GCP | Jenkins | CICD | Agile | Jira | Computer Networks | API Testing | Manual Testing | STLC | MS Office | Cyber Security | BDD framework | Github actions
