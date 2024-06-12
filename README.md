@@ -1,12 +1,7 @@
 ### Hi there, I'm Aditya SDET👋
-- 🔭 I’m full stack tester
-- 🌱 I’m enthusiastic about front end and back end testing
-- ⚡ I’m python programmer
+- 🔭 I’m full stack tester & a python programmer
 - 👯 I'm have worked on UI testing, API testing, backend testing
 - I have worked on domains like E-commerce, cyber security 
-
-## I'm a Software Engineer!
-
 - 🔭 I’m currently learning latest tech stack of javascript
 - 🥅 2024 Goals: Learn about cypress and mobile automation
 - ⚡ Fun fact: I love to draw and play games
