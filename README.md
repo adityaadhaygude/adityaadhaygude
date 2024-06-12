@@ -1,13 +1,14 @@
-### Hi there, I'm Aditya👋
-- 🔭 I’m full stack web developement learner
-- 🌱 I’m enthusiastic about Data science and Machine learning
+### Hi there, I'm Aditya SDET👋
+- 🔭 I’m full stack tester
+- 🌱 I’m enthusiastic about front end and back end testing
 - ⚡ I’m python programmer
-- 👯 I'm currently working on cyber security project
+- 👯 I'm have worked on UI testing, API testing, backend testing
+- I have worked on domains like E-commerce, cyber security 
 
 ## I'm a Software Engineer!
 
-- 🔭 I’m currently working on a cyber security based project!
-- 🥅 2022 Goals: Learn about cyber security
+- 🔭 I’m currently learning latest tech stack of javascript
+- 🥅 2024 Goals: Learn about cypress and mobile automation
 - ⚡ Fun fact: I love to draw and play games
 
 ### Languages and Tools:
