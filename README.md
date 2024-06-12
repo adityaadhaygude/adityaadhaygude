@@ -8,7 +8,7 @@
 
 ### Roles and Responsibilities:
 - Write automation framework from scratch - for front end as well as backend
-- Responsible for sanity, regression, unit, integration, system testing
+- Responsible for functional testing like sanity, regression, unit, integration, system testing as well as non-functional testing
 - Create test plan, stratergy. Write and execute test scenarios & test cases
 - Works in agile methodology, follows scrum
 - Understands SDLC, STLC, Bug life cycle
