@@ -20,7 +20,7 @@
 - Resposible for root cause analysis & defect tracking
 
 ### Tech Stack:
-Selenium | Python | Pytest | Junit | TestNG | Postman | Cucumber | Swagger API | Linux | Virtual machines | Docker | GCP | Genkins | CICD | Agile | Jira | Computer Networks | API Testing | Manual Testing | STLC
+Selenium | Python | Java | Pytest | Junit | TestNG | Postman | Cucumber | Swagger API | Linux | Virtual machines | Docker | GCP | Jenkins | CICD | Agile | Jira | Computer Networks | API Testing | Manual Testing | STLC | MS Office | Cyber Security | BDD framework | Github actions
 
 ### Languages and Tools:
 
